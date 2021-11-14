@@ -25,10 +25,6 @@ laravel ウェルカムページ
 
   http://localhost:80
 
-- 管理ページ
-
-  http://localhost:8080/admin/
-
 
 ## 設定類
 
